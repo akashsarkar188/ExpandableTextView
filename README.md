@@ -1,5 +1,5 @@
 # ExpandableTextView
-Demonstartion for expandable Textview And Retrofit and as a part of completing my assignment.
+Demonstartion for expandable Textview And Retrofit.
 Here are some screenshots...
 
 
